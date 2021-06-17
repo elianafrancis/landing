@@ -1,0 +1,23 @@
+.banner{
+	background-image: linear-gradient(-220deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../../images/bvc2.jpeg);
+	padding: 150px 0px;
+	color: white;
+	background-size: cover;
+	background-position: center;
+}
+.banner h1{
+	font-size: 45px;
+	color: white;
+    width: 7000px;
+    margin-bottom: 80px;
+
+
+}
+.banner p{
+	font-size: 20px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 20px;
+	mar
+
+}
